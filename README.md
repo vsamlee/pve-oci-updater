@@ -1,6 +1,3 @@
-好的，根据你提供的说明，我来重新整理一份更精准的 README：
-
-```markdown
 # pve-oci-updater
 
 PVE 9.x 环境下，通过 OCI 镜像自动更新 LXC 容器的脚本集。
